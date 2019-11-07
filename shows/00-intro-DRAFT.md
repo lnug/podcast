@@ -1,16 +1,16 @@
 
 
-#Podcast 00 - An Intro with Adam Davies
+# Podcast 00 - An Intro with Adam Davies
 
 
-##Introduction
+## Introduction
 * podcast intro
     * Welcome to the London Node User Group podcast, a podcast from the London Node community. 
 * Guest: Adam
 * hosts: Matt and Simon 
 	
 
-Adam 
+## Adam  
 * What is LNUG? 
 * How did you first get involved with LNUG?
 * How did you get involved with node?
@@ -31,7 +31,7 @@ Adam
 * What upcoming events do we have
 
 
-News (optional)
+## News (optional)
 *   Lnug news
 * Last LNUG - videos available
 * next lnug - 24th July 
@@ -41,12 +41,12 @@ News (optional)
 * Mention Jobs stall at LNUG 
 
 
-NPM Modules of the month: 
+##  Modules of the month: 
 *  Simon: vue 
 * Adam: 
 * Matt: 
 
-Closing 
+## Closing 
 * Thank guests 
 * Thank sponsors 
 * Talk about next show? 
