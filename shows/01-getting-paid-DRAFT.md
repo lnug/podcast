@@ -16,6 +16,7 @@
 
     * method for getting a job
         * Your network 
+        * Google 
         * jobs boards 
         * community events / channels
         * Numbers game 
