@@ -9,6 +9,11 @@
 * Guest: Adam
 * hosts: Matt and Simon 
 	
+## Thought of the day?
+
+* Adam 
+* Matt
+* Simon 
 
 ## Adam  
 * What is LNUG? 

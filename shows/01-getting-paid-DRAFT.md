@@ -12,6 +12,14 @@
 * hosts: Matt and Simon 
 	
 
+## Thought of the day?
+
+* Adam 
+* Simon 
+* Guests
+
+
+
 * Topics 
 
     * method for getting a job
