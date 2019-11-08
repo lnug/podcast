@@ -19,7 +19,6 @@
 * Guests
 
 
-
 * Topics 
 
     * method for getting a job
