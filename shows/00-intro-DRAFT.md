@@ -1,19 +1,19 @@
 
 
-# Podcast 00 - An Intro with Adam Davies
-
+# Podcast 00 - An Intro with Adam Davis
 
 ## Introduction
 * podcast intro
     * Welcome to the London Node User Group podcast, a podcast from the London Node community. 
-* Guest: Adam
-* hosts: Matt and Simon 
-	
+* Guest: Adam Davis
+* hosts: Simon 
+* Where are you/ are you safe and your family safe?	
+
+
 ## Thought of the day?
 
-* Adam 
-* Matt
-* Simon 
+* Adam - 
+* Simon - Now is not the time for galavanting. 
 
 ## Adam  
 * What is LNUG? 
@@ -36,13 +36,22 @@
 * What upcoming events do we have
 
 
+* how did setting up a remote event work 
+* Will they all be remote in future?
+* Whats it like in the matrix?
+
+* any projects people can get involved in. 
+
+
+
 ## News (optional)
 *   Lnug news
 * Last LNUG - videos available
-* next lnug - 24th July 
-    * Upcoming talks 
+* next lnug - April - will be remote ?
+    * Upcoming talks ?
 * Node news
-* London event news
+    github buying npm
+* London event news - l
 * Mention Jobs stall at LNUG 
 
 
@@ -54,4 +63,5 @@
 ## Closing 
 * Thank guests 
 * Thank sponsors 
+* Stay safe out there to all our listeners.
 * Talk about next show? 
