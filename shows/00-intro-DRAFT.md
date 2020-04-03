@@ -9,7 +9,7 @@
 * Guest: Adam Davis
 * hosts: Simon 
 
-
+End of second week of lockdown here, 
 
 * Where are you/ are you safe and your family safe?	    
 
@@ -31,14 +31,13 @@
     * speak - what does the process look like to a speaker 
     * organise - how to help
     * sponsor -how / who to speak to
-    * Suggest podcast topics :)
+    * Suggest podcast topics :) issues 
     * Node school?
 * How does the money work?
     * Do you get paid?
     * Where do we keep all the money?
 * London only?
 * Community of communities  // cross cutting community concerns  - what other communities are we in frequent contact with. 
-* What upcoming events do we have
 
 
 * how did setting up a remote event work 
@@ -72,5 +71,5 @@ Would you rather fight 100 duck sized @seanmtracey's or a @seanmtracey sized duc
 ## Closing 
 * Thank guests 
 * Thank sponsors 
-* Stay safe out there to all our listeners.
 * Talk about next show? 
+* Stay safe out there to all our listeners.
