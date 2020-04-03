@@ -4,19 +4,24 @@
 
 ## Introduction
 * podcast intro
-    * Welcome to the London Node User Group podcast, a podcast from the London Node community. 
+    * Welcome to the London Node User Group podcast, LNUG is a friendly monthly meetup for people using Node for fun or profit.
+    * A podcast from the London Node community. 
 * Guest: Adam Davis
 * hosts: Simon 
-* Where are you/ are you safe and your family safe?	
+
+
+
+* Where are you/ are you safe and your family safe?	    
 
 
 ## Thought of the day?
 
 * Adam - 
-* Simon - Now is not the time for galavanting. 
+* Simon - Stay at home. 
 
 ## Adam  
 * What is LNUG? 
+* Why are we doing a podcast?
 * How did you first get involved with LNUG?
 * How did you get involved with node?
 * What is your role now?
@@ -42,6 +47,11 @@
 
 * any projects people can get involved in. 
 
+-+
+Would you rather fight 100 duck sized @seanmtracey's or a @seanmtracey sized duck
+
+
+
 
 
 ## News (optional)
@@ -58,7 +68,6 @@
 ##  Modules of the month: 
 *  Simon: vue 
 * Adam: 
-* Matt: 
 
 ## Closing 
 * Thank guests 
